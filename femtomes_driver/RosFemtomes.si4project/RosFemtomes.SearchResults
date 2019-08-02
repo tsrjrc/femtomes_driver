@@ -1,0 +1,3 @@
+---- novatel_msgs Matches (2 in 2 files) ----
+CMakeLists.txt (femtoms_msgs) line 2 : project(novatel_msgs)
+femtomes_driver.src.femtomes_driver.mapping in mapping.py (femtomes_driver\src\femtomes_driver) : from novatel_msgs.msg import *
